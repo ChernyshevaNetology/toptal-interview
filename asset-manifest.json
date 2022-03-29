@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toptal-interview/static/css/main.dcc5af49.css",
+    "main.js": "/toptal-interview/static/js/main.047ef18d.js",
+    "index.html": "/toptal-interview/index.html",
+    "main.dcc5af49.css.map": "/toptal-interview/static/css/main.dcc5af49.css.map",
+    "main.047ef18d.js.map": "/toptal-interview/static/js/main.047ef18d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc5af49.css",
+    "static/js/main.047ef18d.js"
+  ]
+}
